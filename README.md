@@ -6,7 +6,7 @@ The application receives a user's name and date of birth, identifies the corresp
 
 ---
 
-## 📋 Features
+## Features
 
 * HTML form for user input
 * PHP form processing
@@ -27,7 +27,7 @@ The application receives a user's name and date of birth, identifies the corresp
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -39,7 +39,7 @@ The application receives a user's name and date of birth, identifies the corresp
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository.
 
@@ -64,7 +64,7 @@ http://localhost/php-xml-zodiac/
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This project was developed as a practical exercise to demonstrate:
 
@@ -76,7 +76,7 @@ This project was developed as a practical exercise to demonstrate:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 Possible improvements include:
 
@@ -89,7 +89,7 @@ Possible improvements include:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Felicio Xavier
 
